@@ -1,0 +1,11 @@
+*.h5
+*.zip
+*.json
+第一次批改.jpg
+第二次批改.jpg
+第三次批改.jpg
+/__pycache__/*
+/tensorflow_vgg/*
+/test1/*
+/train/*
+/train2/*
